@@ -14,7 +14,7 @@ def send_emails(title,msg):
     ##server = smtplib.SMTP('smtp.yandex.com.tr:465')
     server.ehlo()
     ##server.starttls()
-    server.login("mustafa.akgull@yandex.com", "pinkamoeba_4U")
+    server.login("mustafa.akgull@yandex.com", "xxx")
     message = 'Subject: {}\n\n{}'.format(title,msg)
     server.sendmail("mustafa.akgull@yandex.com", "mustafa.akgull@yandex.com",message)
     server.quit()
