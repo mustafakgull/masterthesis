@@ -21,3 +21,9 @@ def send_emails(title,msg):
     print("E-mails successfully sent!")
 
 send_emails('Test Mail From Akgul', 'This e-mail has been sent by akgul!')
+
+
+
+###test###
+sql
+###
