@@ -26,4 +26,8 @@ send_emails('Test Mail From Akgul', 'This e-mail has been sent by akgul!')
 
 ###test###
 sql
+
+1) Çalışan SGK giriş evrağı, 
+2) İşe giriş sağlık raporu (Özel sağlık kurumların raporu kabul edilmemektedir) 
+3) İş sağlığı ve güvenliği eğitim belgesi
 ###
